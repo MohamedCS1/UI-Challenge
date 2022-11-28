@@ -3,7 +3,11 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/gdgchallenge/app/src/main/res/drawable/background_task.xml" value="0.1925" />
         <entry key="..\:/Users/Acer/AndroidStudioProjects/gdgchallenge/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2905" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/gdgchallenge/app/src/main/res/drawable/radius_background.xml" value="0.264" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/gdgchallenge/app/src/main/res/layout/activity_event_schedule.xml" value="0.264" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/gdgchallenge/app/src/main/res/layout/activity_events.xml" value="0.264" />
         <entry key="..\:/Users/Acer/AndroidStudioProjects/gdgchallenge/app/src/main/res/layout/activity_main.xml" value="0.176" />
       </map>
     </option>
