@@ -115,6 +115,7 @@
             android:paddingTop="7dp"
             android:paddingBottom="7dp">
             <TextView
+                android:id="@+id/timeTask1"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="9:00 AM"
@@ -122,6 +123,7 @@
                 android:textStyle="bold"
                 android:textSize="15sp"/>
             <TextView
+                android:id="@+id/dateTask1"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="31 Dec"
@@ -147,6 +149,7 @@
 
 
             <TextView
+                android:id="@+id/titleTask1"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="Any Text"
@@ -176,6 +179,7 @@
             android:paddingTop="7dp"
             android:paddingBottom="7dp">
             <TextView
+                android:id="@+id/timeTask2"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="9:00 AM"
@@ -183,6 +187,7 @@
                 android:textStyle="bold"
                 android:textSize="15sp"/>
             <TextView
+                android:id="@+id/dateTask2"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="31 Dec"
@@ -208,6 +213,7 @@
 
 
             <TextView
+                android:id="@+id/titleTask2"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="Any Text"
@@ -237,6 +243,7 @@
             android:paddingTop="7dp"
             android:paddingBottom="7dp">
             <TextView
+                android:id="@+id/timeTask3"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="9:00 AM"
@@ -244,6 +251,7 @@
                 android:textStyle="bold"
                 android:textSize="15sp"/>
             <TextView
+                android:id="@+id/dateTask3"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="31 Dec"
@@ -269,6 +277,7 @@
 
 
             <TextView
+                android:id="@+id/titleTask3"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="Any Text"
@@ -298,6 +307,7 @@
             android:paddingTop="7dp"
             android:paddingBottom="7dp">
             <TextView
+                android:id="@+id/timeTask4"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="9:00 AM"
@@ -305,6 +315,7 @@
                 android:textStyle="bold"
                 android:textSize="15sp"/>
             <TextView
+                android:id="@+id/dateTask4"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="31 Dec"
@@ -330,6 +341,7 @@
 
 
             <TextView
+                android:id="@+id/titleTask4"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="Any Text"
@@ -358,6 +370,7 @@
             android:paddingTop="7dp"
             android:paddingBottom="7dp">
             <TextView
+                android:id="@+id/timeTask5"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="9:00 AM"
@@ -365,6 +378,7 @@
                 android:textStyle="bold"
                 android:textSize="15sp"/>
             <TextView
+                android:id="@+id/dateTask5"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="31 Dec"
@@ -390,6 +404,7 @@
 
 
             <TextView
+                android:id="@+id/titleTask5"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="Any Text"
@@ -452,6 +467,7 @@
 
         </LinearLayout>
         <LinearLayout
+            android:id="@+id/buFeedBack"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:orientation="vertical"

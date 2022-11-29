@@ -13,7 +13,7 @@ class MainActivity : AppCompatActivity() {
         setContentView(binding.root)
 
         binding.linearLayoutMain.setOnClickListener {
-            startActivity(Intent(this ,FeedBackActivity::class.java))
+            startActivity(Intent(this ,EventsActivity::class.java))
         }
     }
 }
