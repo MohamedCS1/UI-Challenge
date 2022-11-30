@@ -42,6 +42,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:text="FEEDBACK "
+                    android:fontFamily="@font/opensansextrabold"
                     android:layout_weight="0"
                     android:textColor="@color/black"
                     android:textStyle="bold"
@@ -52,6 +53,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:text="F"
+                    android:fontFamily="@font/opensansextrabold"
                     android:layout_weight="0"
                     android:textStyle="bold"
                     android:textSize="30sp"
@@ -63,6 +65,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:text="ORM"
+                    android:fontFamily="@font/opensansextrabold"
                     android:layout_weight="0"
                     android:textStyle="bold"
                     android:textSize="30sp"
@@ -105,6 +108,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="NAME / E-mail"
+                android:fontFamily="@font/poppinsmedium"
                 android:layout_marginTop="20dp"
                 android:textColor="@color/black"
                 android:layout_marginStart="50dp"
@@ -115,6 +119,7 @@
                 android:layout_height="50dp"
                 android:background="@drawable/background_radius"
                 android:gravity="start"
+                android:fontFamily="@font/poppinsmedium"
                 android:padding="10dp"
                 android:layout_marginStart="20dp"
                 android:layout_marginEnd="20dp"/>
@@ -125,6 +130,7 @@
                 android:text="Rate your experience it the event"
                 android:textColor="@color/black"
                 android:layout_marginStart="40dp"
+                android:fontFamily="@font/poppinsmedium"
                 android:layout_marginTop="20dp"
                 />
 
@@ -177,6 +183,7 @@
                     android:layout_height="wrap_content"
                     android:text="MORE DETAILS"
                     android:layout_weight="1"
+                    android:fontFamily="@font/poppinsmedium"
                     android:textColor="@color/black"
                     android:layout_marginStart="40dp"/>
                 <ImageView
@@ -194,6 +201,7 @@
                 android:background="@drawable/background_radius"
                 android:gravity="start"
                 android:padding="10dp"
+                android:fontFamily="@font/poppinsmedium"
                 android:layout_marginStart="20dp"
                 android:layout_marginEnd="20dp" />
 
@@ -219,6 +227,7 @@
                     android:layout_height="wrap_content"
                     android:text="SUBSCRIBE"
                     android:textColor="@color/black"
+                    android:fontFamily="@font/poppinsmedium"
                     android:textStyle="bold"
                     android:textSize="12dp"
                     android:paddingTop="17dp"
